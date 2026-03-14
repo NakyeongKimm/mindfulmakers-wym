@@ -1,0 +1,48 @@
+{
+  "exportedAt": "2026-03-14T15:54:00",
+
+  "user": {
+    "name": "Naky",
+    "location": "Your City"
+  },
+
+  "screenTime": {
+    "weekStart": "2026-03-09",
+    "weekEnd": "2026-03-14",
+    "dailyTotals": [72, 85, 65, 78, 69, 90, 69],
+    "byApp": [
+      { "app": "Shortcuts",   "minutes": 17, "opens": 4  },
+      { "app": "Settings",    "minutes": 8,  "opens": 6  },
+      { "app": "Gemini",      "minutes": 7,  "opens": 5  },
+      { "app": "Safari",      "minutes": 7,  "opens": 8  },
+      { "app": "WhatsApp",    "minutes": 5,  "opens": 10 },
+      { "app": "KakaoTalk",   "minutes": 5,  "opens": 8  },
+      { "app": "Google Maps", "minutes": 4,  "opens": 3  },
+      { "app": "Instagram",   "minutes": 4,  "opens": 5  },
+      { "app": "Photos",      "minutes": 2,  "opens": 4  },
+      { "app": "Gmail",       "minutes": 2,  "opens": 6  },
+      { "app": "LinkedIn",    "minutes": 2,  "opens": 3  }
+    ],
+    "phoneFreeMetrics": {
+      "mealsThisWeek": 2,
+      "mealsLastWeek": 1,
+      "totalMeals": 21,
+      "phoneFreeExamples": ["Mon dinner", "Thu lunch"]
+    }
+  },
+
+  "location": {
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "label": "Your City",
+    "timestamp": "2026-03-14T15:54:00"
+  },
+
+  "weather": {
+    "tempF": 62,
+    "condition": "clear",
+    "label": "sunny",
+    "windMph": 8,
+    "icon": "☀️"
+  }
+}
